@@ -10,3 +10,9 @@ Nginx
 Mysql  
 MongoDB  
 Redis  
+### Front end
+Vue.js  
+Node.js  
+Axios  
+Webpack  
+NPM  
